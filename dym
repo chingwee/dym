@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+// Read user input
+const args = process.argv.slice(2)
